@@ -10,3 +10,4 @@ el fichero "administrar.html" permite agregar un elefante nuevo a la base de dat
 
 Se adjunto el archivo elephants.json que contiene la base de datos utilizada, la cual se puede cargar en el servidor json-server de npm que permite crear un servidor fake de API para pruebas, si se desea usar otro servidor, debe cambiarse la url en los scripts "main.js" y "agregar.js"
 
+Los archivos HTML y CSS están comprimidos con minify y uglify de npm.
